@@ -5,8 +5,7 @@
 layout: single
 author_profile: true
 ---
-#### Cookie Notice:
-My site does not use cookies of any kind. Sorry to leave you starving.
+**Cookie Notice:** My site does not use tracking cookies of any kind. 
 {: .notice--info}
 
 ## Hey there!
