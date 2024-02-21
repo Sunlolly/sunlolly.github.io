@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Mads Marturin"
   avatar : "/assets/images/Marturin_face.jpg"
-  bio    : "  I’m Mads, a bit of a jack-of-all-trades with a passion for games, the environment, and exploring the stars, as well as the great outdoors.<br>This is a personal space for my resume, thoughts, links and whatever else i find."
+  bio    : "This is my personal space for my resume, thoughts, links and whatever else i find."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
