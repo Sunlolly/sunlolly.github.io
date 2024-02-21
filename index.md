@@ -10,7 +10,7 @@ author_profile: true
 
 ## Hey there!
 
-I'm Mads, a bit of a jack-of-all-trades with a passion for games, the environment, and exploring the stars, as well as the great outdoors.
+I'm Mads, a bit of a jack-of-all-trades with a passion for games, the environment, exploring the stars, and the great outdoors.
 
 
 <!-- more -->
