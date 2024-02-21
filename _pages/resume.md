@@ -12,14 +12,14 @@ header:
     - label: "Download Resume"
       url: "/assets/resume.pdf"
 ---
-> ![image-left](/assets/images/Marturin_face.jpg){: .align-left}
-> **FULL NAME**
+> ![image-left](/assets/images/Marturin_small.jpg){: .align-left}
+> **Full Name**
 > Mads Marturin  
-> **E-MAIL**
+> **E-Mail**
 > <hi@madsmarturin.dk>  
-> **PHONE**
+> **Phone**
 > +45 51 72 94 34  
-> **LINKEDIN**
+> **LinkedIn**
 > <https://linkedin.com/in/marturin>
 
 ## ABOUT ME
