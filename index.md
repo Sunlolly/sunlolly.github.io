@@ -6,5 +6,6 @@ layout: single
 author_profile: true
 ---
 
+{{ include _pages/about.md }}
 ## Hello!
 This is a page
