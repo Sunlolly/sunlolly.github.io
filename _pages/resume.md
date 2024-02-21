@@ -2,6 +2,8 @@
 permalink: /resume/
 title: "Resume"
 author_profile: false
+toc: true
+toc_sticky: true
 header:
   overlay_image: /assets/images/unsplash-1-forest.jpg
   overlay_filter: rgba(255, 255, 255, 0.3)
@@ -10,7 +12,7 @@ header:
     - label: "Download Resume"
       url: "/assets/resume.pdf"
 ---
-
+> ![image-left](/assets/images/Marturin_face.jpg){: .align-left}
 > **FULL NAME**
 > Mads Marturin  
 > **E-MAIL**
@@ -18,7 +20,7 @@ header:
 > **PHONE**
 > +45 51 72 94 34  
 > **LINKEDIN**
-> <https://linkedin.com/en/marturin>
+> <https://linkedin.com/in/marturin>
 
 ## ABOUT ME
 I am the sword and shield of the team, getting rid of obstacles, as well as shielding them from distractions. I enjoy making sure that my team can do their very best. I excel working in creative multidisciplinary teams of designers, artists, developers and other product managers and can quickly and efficiently translate from vision and strategy to tasks and solutions.
