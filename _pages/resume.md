@@ -16,7 +16,7 @@ header:
 > **E-MAIL**
 > [mailto:hi@madsmarturin.dk](hi@madsmarturin.dk)  
 > **PHONE**
-> [tel:+45 51 72 94 34](+45 51 72 94 34)  
+> [tel:+4551729434](+45 51 72 94 34)  
 > **LINKEDIN**
 > [https://linkedin.com/in/marturin](LinkedIn.com/en/marturin)
 
