@@ -61,7 +61,7 @@ author:
   bio    : "My personal site for my resume, thoughts, links and whatever else i find. You can get in touch at hi@madsmarturin.dk."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/marturin"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
