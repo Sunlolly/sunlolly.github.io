@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Mads Marturin"
   avatar : "/assets/images/Marturin_face.jpg"
-  bio    : "My personal site for my resume, thoughts, links and whatever else i find. You can get in touch at hi@madsmarturin.dk."
+  bio    : "  I’m Mads, a bit of a jack-of-all-trades with a passion for games, the environment, and exploring the stars, as well as the great outdoors.<br>This is a personal space for my resume, thoughts, links and whatever else i find."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -106,9 +106,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-#tag_archive:
+#category_archive:
 #  type: liquid
-#  path: /tags/
+#  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
