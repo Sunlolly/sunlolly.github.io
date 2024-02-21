@@ -1,7 +1,7 @@
 ---
 permalink: /resume/
 title: "Resume"
-
+author_profile: false
 header:
   overlay_image: /assets/images/unsplash-1-forest.jpg
   overlay_filter: rgba(255, 255, 255, 0.3)
