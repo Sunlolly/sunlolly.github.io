@@ -1,10 +1,9 @@
 ---
-title: "Post: Quote"
+title: "Post: My Self-hosting Journey"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - quote
+  - Selfhosting
 ---
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.
